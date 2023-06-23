@@ -1,4 +1,4 @@
-## **Shijie An**
+# **Shijie An Resume**
 
 805 Columbus Ave, New York, 10025 \| (646)434-9435 \| shijie.an1249@gmail.com
 
