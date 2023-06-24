@@ -2,13 +2,7 @@
 
 805 Columbus Ave, New York, 10025 \| (646)434-9435 \| shijie.an1249@gmail.com
 
-## **Summary of Qualifications**
 
-**Data Analysis & Visualization Skills:** predicted students’ dropout rate and categorized the trend people tending to be anxious using R, built neural network using Python.
-
-**Interpersonal Skills:** Two years experiences working with several groups in tech company, was a Blockchain product manger and mainly focused on the combination and blockchain technology.
-
-**Technical Proficiency:** Microsoft Office Suite, R (tidyverse, caret, ggplot2, ggally), Python (tensorflow), SQL (currently taking), Axure (Prototype)
 
 ## **Education**
 
@@ -68,10 +62,39 @@ Project Leader in 1+X Blockchain Data Governance and Maintenance Certificate and
 
     ## Patent Project Experience
 
-[*https://worldwide.espacenet.com/publicationDetails/biblio?CC=CN&NR=114092289A&KC=A&FT=D*](https://worldwide.espacenet.com/publicationDetails/biblio?CC=CN&NR=114092289A&KC=A&FT=D)
+​		[*https://worldwide.espacenet.com/publicationDetails/biblio?CC=CN&NR=114092289A&KC=A&FT=D*](https://worldwide.espacenet.com/publicationDetails/biblio?CC=CN&NR=114092289A&KC=A&FT=D)
 
-**A Blockchain Teaching and Training Platform(Patent Project) Aug. 2020– Nov.2021 Patent Inventor**
+​		**A Blockchain Teaching and Training Platform(Patent Project) Aug. 2020– Nov.2021 Patent Inventor**
 
-[*https://worldwide.espacenet.com/publicationDetails/biblio?CC=CN&NR=110224837B&KC=B&FT=D*](https://worldwide.espacenet.com/publicationDetails/biblio?CC=CN&NR=110224837B&KC=B&FT=D)
+​		[*https://worldwide.espacenet.com/publicationDetails/biblio?CC=CN&NR=110224837B&KC=B&FT=D*](https://worldwide.espacenet.com/publicationDetails/biblio?CC=CN&NR=110224837B&KC=B&FT=D)
 
-**Zero-knowledge proof method and terminal based on distributed identity Nov.2021 Patent Inventor**
+​		**Zero-knowledge proof method and terminal based on distributed identity Nov.2021 Patent Inventor**
+
+
+
+# About me
+
+
+
+
+
+# Skills and Certificates
+
+**Data Analysis & Visualization Skills:** predicted students’ dropout rate and categorized the trend people tending to be anxious using R, built neural network using Python.
+
+**Interpersonal Skills:** Two years experiences working with several groups in tech company, was a Blockchain product manger and mainly focused on the combination and blockchain technology.
+
+**Technical Proficiency:** Microsoft Office Suite, R (tidyverse, caret, ggplot2, ggally), Python (tensorflow), SQL (currently taking), Axure (Prototype)
+
+
+
+# Selected Projects
+
+
+
+
+
+# Online Presence
+
+
+
