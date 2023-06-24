@@ -24,7 +24,7 @@
 
 Product Developer and Project Manager
 
-Project Leader in 1+X Blockchain Data Governance and Maintenance Certificate and Training Platform
+**Project Leader in 1+X Blockchain Data Governance and Maintenance Certificate and Training Platform**
 
 -   Directed a trio of team members in developing a training platform aimed at teaching students how to utilize Blockchain technology and create Blockchain applications, with a focus on enhancing vocational skill sets.
 
@@ -74,7 +74,15 @@ Project Leader in 1+X Blockchain Data Governance and Maintenance Certificate and
 
 # About me
 
+Hey Guys. I'm Shijie An, a dedicated learner and explorer in the realm of Learning Analytics. Currently pursuing my studies in Learning Analytics at Teachers College, Columbia University, I'm passionate about leveraging data-driven insights to revolutionize education. As a product manager at an education company specializing in K–12 education and content, I'm actively involved in shaping the future of learning.
 
+My current focus revolves around a recommender-system-like platform, where I engage in intriguing learning experiments. Through the power of data, I'm dedicated to building labels that accurately assess students' understanding of specific knowledge points. It's an exhilarating journey, as I collaborate with an exceptional team to create a system that truly enhances the educational experience.
+
+To ensure precision and effectiveness, I apply my skills in Excel and R to calculate the weight of each label we create. The ability to analyze and interpret data empowers me to make informed decisions and contribute to the development of a robust platform. I find immense joy in this work, as I witness firsthand the positive impact it has on students' learning outcomes.
+
+Beyond my professional endeavors, I am a firm believer in continuous growth and holistic development. I embrace new challenges, seek inspiration from diverse sources, and thrive in collaborative environments. Outside the realm of learning analytics, you can find me immersing myself in nature, capturing its beauty through the lens of my camera.
+
+If you share my passion for leveraging data to transform education or are interested in collaborating on exciting projects, I invite you to connect with me. Together, let's unlock the potential of education and create a brighter future for learners worldwide.
 
 
 
@@ -90,11 +98,19 @@ Project Leader in 1+X Blockchain Data Governance and Maintenance Certificate and
 
 # Selected Projects
 
+### Sign Language Detection: 
+
+Sign languages are languages that use manual communication to convey meaning. This can include simultaneously employing hand gestures, movement, orientation of the fingers, arms or body, and facial expressions to convey a speaker's ideas. 
+
+In this dataset, there are 10 classes, which each of them represents the gesture from 1 to 10. Each picture is 100x100 pixels, and there are 218 students participated to give number gestures. There are totally 2062 pictures. 
+
 
 
 
 
 # Online Presence
 
+**LinkedIn:** https://www.linkedin.com/in/shijie-an-49b143166/
 
+**Github:** https://github.com/Mushaddict
 
