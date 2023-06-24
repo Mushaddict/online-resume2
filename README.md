@@ -104,9 +104,11 @@ Sign languages are languages that use manual communication to convey meaning. Th
 
 In this dataset, there are 10 classes, which each of them represents the gesture from 1 to 10. Each picture is 100x100 pixels, and there are 218 students participated to give number gestures. There are totally 2062 pictures. 
 
+The tuner part is to use keras.tuner to find out the best number of neruals and what activation function is to use for each layer. Also, this can test how many layer should we get from the nerual network. 
 
+We tried to set up the first layer as Dense layer, and set up with the min neural value as 16, the max as 4096, and to step up with 16. The activation choice are relu , sigmoid , tanh , and try to use l1/l2 as kernel_regularizer. 
 
-
+Finally, we have raised the accuarcy to 80 or 90 to fit the best outcome for the sign language detection. 
 
 # Online Presence
 
