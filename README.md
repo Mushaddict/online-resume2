@@ -112,7 +112,7 @@ Finally, we have raised the accuarcy to 80 or 90 to fit the best outcome for the
 
 # Online Presence
 
-**LinkedIn:** https://www.linkedin.com/in/shijie-an-49b143166/
+**LinkedIn:** [https://www.linkedin.com/in/shijie-an-49b143166/](https://www.linkedin.com/in/shijie-an-49b143166/)
 
-**Github:** https://github.com/Mushaddict
+**Github:** [https://github.com/Mushaddict](https://github.com/Mushaddict)
 
